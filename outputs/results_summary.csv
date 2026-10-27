@@ -1,0 +1,5 @@
+Model,F1,AUC,Accuracy
+LogisticRegression_Baseline,0.4128,0.4983,0.507
+LogisticRegression+Cluster,0.4302,0.5053,0.4968
+RandomForest_Baseline,0.2764,0.4707,0.5246
+RandomForest+Cluster,0.2886,0.4726,0.5385

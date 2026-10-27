@@ -1,0 +1,4 @@
+cluster,count,repurchase_rate,avg_recency,avg_frequency,avg_monetary
+0,2469,0.38,348.27,2.35,235.12
+1,1508,0.36,1182.41,1.54,172.57
+2,1070,0.36,331.05,4.47,728.57
